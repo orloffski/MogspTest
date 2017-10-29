@@ -8,10 +8,10 @@
 /captures
 .externalNativeBuild
 .idea/
-app/
 gradle/
 settings.gradle
 gradlew
 gradle.properties
 build.gradle
 gradlew.bat
+app/proguard-rules.pro

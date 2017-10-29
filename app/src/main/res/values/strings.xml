@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MogspTest</string>
+
+    <string name="internet_disconnected">Отсутствует подключение к сети Internet</string>
+    <string name="load_news_error">Ошибка получения новости</string>
+    <string name="today_news_not_found">Сегодня новостей нет, загружена последняя новость</string>
+</resources>
